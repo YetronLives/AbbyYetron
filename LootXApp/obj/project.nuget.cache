@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "APnMt+BMstNsfu4MHLw73h8F/+G+sSnXNwde/AWaG88oOOO/egQ3UKRS3yALWqcV39cM/73PEkAuRInx84rUvw==",
+  "dgSpecHash": "sImyUeYZh7MMTYWhjWQB3MQ5oYVIbg5lBAPb5pDCNNLsSRBtnsZ8KOgrQwRG33sV9iU8pl2DX1f6F4lgEWdyOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Constant Jr\\source\\repos\\LootXApp\\LootXApp.csproj",
+  "projectFilePath": "C:\\Users\\Constant Jr\\Documents\\GitHub\\AbbyYetron\\LootXApp\\LootXApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Constant Jr\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Constant Jr\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

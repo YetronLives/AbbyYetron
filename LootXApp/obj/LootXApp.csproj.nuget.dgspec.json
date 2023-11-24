@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Constant Jr\\source\\repos\\LootXApp\\LootXApp.csproj": {}
+    "C:\\Users\\Constant Jr\\Documents\\GitHub\\AbbyYetron\\LootXApp\\LootXApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Constant Jr\\source\\repos\\LootXApp\\LootXApp.csproj": {
+    "C:\\Users\\Constant Jr\\Documents\\GitHub\\AbbyYetron\\LootXApp\\LootXApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Constant Jr\\source\\repos\\LootXApp\\LootXApp.csproj",
+        "projectUniqueName": "C:\\Users\\Constant Jr\\Documents\\GitHub\\AbbyYetron\\LootXApp\\LootXApp.csproj",
         "projectName": "LootXApp",
-        "projectPath": "C:\\Users\\Constant Jr\\source\\repos\\LootXApp\\LootXApp.csproj",
+        "projectPath": "C:\\Users\\Constant Jr\\Documents\\GitHub\\AbbyYetron\\LootXApp\\LootXApp.csproj",
         "packagesPath": "C:\\Users\\Constant Jr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Constant Jr\\source\\repos\\LootXApp\\obj\\",
+        "outputPath": "C:\\Users\\Constant Jr\\Documents\\GitHub\\AbbyYetron\\LootXApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Constant Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
